@@ -1,0 +1,7 @@
+1-npm install
+2-Ctrl + Shift + P
+Escribe:
+TypeScript: Restart TS Server
+
+npm run build
+npm start | npm run dev
